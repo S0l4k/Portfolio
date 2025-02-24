@@ -22,4 +22,5 @@ I'm an aspiring programmer, primarily working with Unity, though I've also creat
 - **Description**: Created during the 40-hour PogJam, where the theme was "level." The game represents life as a series of levels, each depicting a different stage of human existence—from infancy to old age and death. The gameplay consists of mini-games reflecting life's challenges at different ages.  
 - **Tech**: Unity  
 - **Role**: Programming, Design  
-- [GitHub Repository](https://github.com/S0l4k/LevelsOfLife)  
+- [GitHub Repository](https://github.com/S0l4k/LevelsOfLife)
+-  **Play Levels of Life on Itch.io:** [https://s0lon.itch.io/levels-of-life](https://s0lon.itch.io/levels-of-life)
