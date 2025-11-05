@@ -24,3 +24,15 @@ I'm an aspiring programmer, primarily working with Unity, though I've also creat
 - **Role**: Programming, Design  
 - [GitHub Repository](https://github.com/S0l4k/LevelsOfLife)
 -  **Play Levels of Life on Itch.io:** [https://s0lon.itch.io/levels-of-life](https://s0lon.itch.io/levels-of-life)
+
+-  ### EyviQuiz
+- **Description**: An interactive quiz using two screens, physical buttons, and an Arduino. The host runs the game on their device, while players can buzz in and answer questions using the buttons. A project created for the company Eyvi, specially designed for a music trade fair in Paris.
+- **Tech**: Unity, C#, Arduino  
+- **Role**: Solo Unity Dev
+- [GitHub Repository](https://github.com/S0l4k/EyviQuiz)
+
+- -  ### ZapZapZapVR
+- **Description**: A VR game set aboard a spaceship. The player’s task is to solve puzzle games in order to open a mysterious box. A university group project — our goal was to create a VR Escape Room game. We chose a space-themed setting and gave the project a humorous, meme-like character.
+- **Tech**: Unity, C#
+- **Role**: Programmer, Designer, Sound Design
+- [GitHub Repository](https://github.com/S0l4k/VR)
