@@ -18,10 +18,10 @@ I'm an aspiring programmer, primarily working with Unity, though I've also creat
 - **Tech**: Unity  
 - **Role**: Programming  
 - [GitHub Repository](https://github.com/S0l4k/Echoes-of-the-Fallen)
-  ![lvl1](Screens/Echoes_of_the_Fallen(1).png)
-  ![2](Screens/Echoes-of-the-Fallen(2).png)
-  ![3](Screens/Echoes-of-the-Fallen(3).png)
-  ![4](Screens/Echoes-of-the-Fallen(4).png)
+  ![lvl1](Screens/Echoes of the Fallen (1).png)
+  ![2](Screens/Echoes of the Fallen (1).png)
+  ![3](Screens/Echoes of the Fallen (1).png)
+  ![4](Screens/Echoes of the Fallen (1).png)
 
 ### Levels of Life  
 - **Description**: Created during the 40-hour PogJam, where the theme was "level." The game represents life as a series of levels, each depicting a different stage of human existence—from infancy to old age and death. The gameplay consists of mini-games reflecting life's challenges at different ages.  
