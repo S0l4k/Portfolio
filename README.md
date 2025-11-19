@@ -10,13 +10,18 @@ I'm an aspiring programmer, primarily working with Unity, though I've also creat
 - **Description**: A university assignment where I implemented an inventory system with drag-and-drop functionality. I expanded it with item stacking and splitting mechanics. Each item has a unique function that interacts with the game world.  
 - **Tech**: Unity  
 - **Role**: Programming  
-- [GitHub Repository](https://github.com/S0l4k/EQSys)   
+- [GitHub Repository](https://github.com/S0l4k/EQSys)
+ ![Inventory System](Screens/EQSys.png)
 
 ### Echoes of The Fallen  
 - **Description**: A 2D platformer created with my team as a university project. The player takes on the role of a bored demon terrorizing innocent inhabitants of a fantasy kingdom. The game is currently a demo, but we plan to develop it further.  
 - **Tech**: Unity  
 - **Role**: Programming  
-- [GitHub Repository](https://github.com/S0l4k/Echoes-of-the-Fallen) 
+- [GitHub Repository](https://github.com/S0l4k/Echoes-of-the-Fallen)
+  ![lvl1](Screens/Echoes of the Fallen (1).png)
+  ![2](Screens/Echoes of the Fallen (1).png)
+  ![3](Screens/Echoes of the Fallen (1).png)
+  ![4](Screens/Echoes of the Fallen (1).png)
 
 ### Levels of Life  
 - **Description**: Created during the 40-hour PogJam, where the theme was "level." The game represents life as a series of levels, each depicting a different stage of human existence—from infancy to old age and death. The gameplay consists of mini-games reflecting life's challenges at different ages.  
@@ -25,13 +30,13 @@ I'm an aspiring programmer, primarily working with Unity, though I've also creat
 - [GitHub Repository](https://github.com/S0l4k/LevelsOfLife)
 -  **Play Levels of Life on Itch.io:** [https://s0lon.itch.io/levels-of-life](https://s0lon.itch.io/levels-of-life)
 
--  ### EyviQuiz
+### EyviQuiz
 - **Description**: An interactive quiz using two screens, physical buttons, and an Arduino. The host runs the game on their device, while players can buzz in and answer questions using the buttons. A project created for the company Eyvi, specially designed for a music trade fair in Paris.
 - **Tech**: Unity, C#, Arduino  
 - **Role**: Solo Unity Dev
 - [GitHub Repository](https://github.com/S0l4k/EyviQuiz)
 
-- -  ### ZapZapZapVR
+### ZapZapZapVR
 - **Description**: A VR game set aboard a spaceship. The player’s task is to solve puzzle games in order to open a mysterious box. A university group project — our goal was to create a VR Escape Room game. We chose a space-themed setting and gave the project a humorous, meme-like character.
 - **Tech**: Unity, C#
 - **Role**: Programmer, Designer, Sound Design
