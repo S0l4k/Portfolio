@@ -45,4 +45,4 @@ I'm an aspiring programmer, primarily working with Unity, though I've also creat
 - **Tech**: Unity, C#
 - **Role**: Programmer, Designer, Sound Design
 - [GitHub Repository](https://github.com/S0l4k/VR)
-  ![2](Screens/ZapZapZapVR.png)
+  ![1](Screens/ZapZapZapVR1.png)
