@@ -18,10 +18,10 @@ I'm an aspiring programmer, primarily working with Unity, though I've also creat
 - **Tech**: Unity  
 - **Role**: Programming  
 - [GitHub Repository](https://github.com/S0l4k/Echoes-of-the-Fallen)
-  ![lvl1](Screens/Echoes of the Fallen (1).png)
-  ![2](Screens/Echoes of the Fallen (1).png)
-  ![3](Screens/Echoes of the Fallen (1).png)
-  ![4](Screens/Echoes of the Fallen (1).png)
+  ![lvl1](Screens/EchoesOfTheFallen1.png)
+  ![2](Screens/EchoesOfTheFallen2.png)
+  ![3](Screens/EchoesOfTheFallen3.png)
+  ![4](Screens/EchoesOfTheFallen4.png)
 
 ### Levels of Life  
 - **Description**: Created during the 40-hour PogJam, where the theme was "level." The game represents life as a series of levels, each depicting a different stage of human existence—from infancy to old age and death. The gameplay consists of mini-games reflecting life's challenges at different ages.  
@@ -29,6 +29,10 @@ I'm an aspiring programmer, primarily working with Unity, though I've also creat
 - **Role**: Programming, Design  
 - [GitHub Repository](https://github.com/S0l4k/LevelsOfLife)
 -  **Play Levels of Life on Itch.io:** [https://s0lon.itch.io/levels-of-life](https://s0lon.itch.io/levels-of-life)
+  ![1](Screens/LevelsOfLife1.png)
+ ![2](Screens/LevelsOfLife2.png)
+ ![3](Screens/LevelsOfLife3.png)
+ 
 
 ### EyviQuiz
 - **Description**: An interactive quiz using two screens, physical buttons, and an Arduino. The host runs the game on their device, while players can buzz in and answer questions using the buttons. A project created for the company Eyvi, specially designed for a music trade fair in Paris.
@@ -41,3 +45,4 @@ I'm an aspiring programmer, primarily working with Unity, though I've also creat
 - **Tech**: Unity, C#
 - **Role**: Programmer, Designer, Sound Design
 - [GitHub Repository](https://github.com/S0l4k/VR)
+  ![1](Screens/ZapZapZapVR.png)
