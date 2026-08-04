@@ -5,7 +5,17 @@ Hi, I'm a Game Development student at Collegium Da Vinci, and this is my project
 I'm an aspiring programmer, primarily working with Unity, though I've also created projects in Unreal Engine 5. I'm a fast learner, constantly improving my skills with each new project. Beyond academic assignments, I've participated in Game Jams, gaining hands-on experience in rapid prototyping and teamwork.  
 
 ## Projects  
-
+### SideEffects
+- **Description**: A psychological horror game developed by a team of three as part of our bachelor's thesis. The protagonist has been haunted by a demon since childhood after taking part in a spirit-summoning ritual. The creature's constant presence creates an ever-growing sense of tension as the protagonist struggles to coexist with the entity. Throughout the story, the player must decide whether to resist the demon's influence or completely surrender to it.
+- **Tech**: Unity, C#, FMOD
+- **Role**: Programmer, Designer, Narrative Designer, Sound Designer, Unity Developer
+- [GitHub Repository](https://github.com/S0l4k/Dyplom)
+  ![1](Screens/SideEffects1.png)
+  ![2](Screens/SideEffects2.png)
+  ![3](Screens/SideEffects3.png)
+  ![4](Screens/SideEffects4.png)
+  ![5](Screens/SideEffects5.png)
+  
 ### EQSys  
 - **Description**: A university assignment where I implemented an inventory system with drag-and-drop functionality. I expanded it with item stacking and splitting mechanics. Each item has a unique function that interacts with the game world.  
 - **Tech**: Unity  
